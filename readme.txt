@@ -1,0 +1,1 @@
+这个是基于boostrap模板 + angular.js + 豆瓣电影api 的angular项目 
